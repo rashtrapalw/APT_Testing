@@ -20,9 +20,9 @@ export function Navigation() {
     { name: 'Home', href: '#home' },
     { name: 'Products', href: '#products' },
     { name: 'Vision', href: '#vision' },
-    // { name: 'Mission', href: '#mission' },
-    // { name: 'Journey', href: '#journey' },
-    // { name: 'Investors', href: '#investors' },
+    { name: 'Mission', href: '#mission' },
+    { name: 'Journey', href: '#journey' },
+    { name: 'Investors', href: '#investors' },
     { name: 'FAQ', href: '#faq' },
   ];
 

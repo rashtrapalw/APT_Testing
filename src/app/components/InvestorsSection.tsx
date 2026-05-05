@@ -117,8 +117,9 @@ export function InvestorsSection() {
         </div>
 
         {/* Charts */}
-        <div className="grid lg:grid-cols-2 gap-8">
-          {/* Revenue Growth Chart */}
+         {/* Revenue Growth Chart */}
+        {/* <div className="grid lg:grid-cols-2 gap-8">
+         
           <motion.div
             initial={{ opacity: 0, x: -50 }}
             whileInView={{ opacity: 1, x: 0 }}
@@ -169,10 +170,10 @@ export function InvestorsSection() {
                 />
               </AreaChart>
             </ResponsiveContainer>
-          </motion.div>
+          </motion.div> */}
 
           {/* Units Sold Chart */}
-          <motion.div
+          {/* <motion.div
             initial={{ opacity: 0, x: 50 }}
             whileInView={{ opacity: 1, x: 0 }}
             viewport={{ once: true }}
@@ -223,8 +224,8 @@ export function InvestorsSection() {
                 />
               </LineChart>
             </ResponsiveContainer>
-          </motion.div>
-        </div>
+          </motion.div> */}
+        {/* </div> */}
 
         {/* Market Opportunity */}
         <motion.div

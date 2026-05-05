@@ -95,7 +95,7 @@ export function ProductSection() {
             >
               <div className="relative rounded-3xl overflow-hidden border border-[#0A0F1C]/10 bg-white/80 backdrop-blur-sm shadow-2xl">
                 <ImageWithFallback
-                  src="https://images.unsplash.com/photo-1581092160607-ee22621dd758?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxlbGVjdHJpYyUyMG1vdG9yJTIwd2hlZWx8ZW58MXx8fHwxNzc1MTI5Njk3fDA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral"
+                  src="/motor.png"
                   alt="Integrated EV Powertrain"
                   className="w-full h-auto"
                 />
@@ -262,7 +262,7 @@ export function ProductSection() {
             >
               <div className="relative rounded-3xl overflow-hidden border border-[#0A0F1C]/10 bg-white/80 backdrop-blur-sm shadow-2xl">
                 <ImageWithFallback
-                  src="https://images.unsplash.com/photo-1581092160607-ee22621dd758?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwyfHxlbGVjdHJpYyUyMG1vdG9yJTIwd2hlZWx8ZW58MXx8fHwxNzc1MTI5Njk3fDA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral"
+                  src="/controller.png"
                   alt="EV Motor Controller"
                   className="w-full h-auto"
                 />
