@@ -19,11 +19,11 @@ export function Navigation() {
   const navItems = [
     { name: 'Home', href: '#home' },
     { name: 'Products', href: '#products' },
-    { name: 'Vision', href: '#vision' },
-    { name: 'Mission', href: '#mission' },
-    { name: 'Journey', href: '#journey' },
-    { name: 'Investors', href: '#investors' },
-    { name: 'FAQ', href: '#faq' },
+    // { name: 'Vision', href: '#vision' },
+    // { name: 'Mission', href: '#mission' },
+    { name: 'About us', href: '#journey' },
+    // { name: 'Investors', href: '#investors' },
+    { name: 'Contact', href: '#faq' },
   ];
 
   return (
